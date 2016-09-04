@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerButtonFree</string>
+    <string name="device_admin_description">Receiver for Device Admin. Used to lock screen.</string>
+</resources>
